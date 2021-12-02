@@ -136,7 +136,7 @@ class PDF
     }
 
     /**
-     * Set/Change an option in DomPdf
+     * Set/Change the options in DomPdf
      *
      * @param array<string, mixed> $options
      */
